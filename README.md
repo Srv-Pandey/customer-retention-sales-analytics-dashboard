@@ -3,11 +3,11 @@
 ## 📷 Dashboard Preview
 
 ![Powr BI Project 2_page-0001](https://github.com/user-attachments/assets/11243231-5ef9-4bd0-9bb9-54beb732d6fa)
+![Powr BI Project 2_page-0002](https://github.com/user-attachments/assets/3a7398fe-c7f3-4d05-a742-f25efa547e2d)
+
 
 ---
-
-
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes customer retention, revenue trends, and purchasing behavior using SQL and Power BI.
 
@@ -15,7 +15,7 @@ The objective was to identify revenue concentration patterns and evaluate repeat
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Total Sales: ₹534M+
 - Total Profit: ₹79.7M+
@@ -26,7 +26,7 @@ The objective was to identify revenue concentration patterns and evaluate repeat
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - SQL (Data Extraction & Aggregation)
 - Power BI (Dashboard Development)
@@ -35,7 +35,7 @@ The objective was to identify revenue concentration patterns and evaluate repeat
 
 ---
 
-## 📌 Dashboard Features
+## Dashboard Features
 
 - Executive Overview Page
 - Customer Behavior Deep-Dive Page
